@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Angular build output
+dist/
+out-tsc/
+
+# Angular cache
+.angular/cache/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs y reportes
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Coverage (tests)
+coverage/
+
+# Ambiente local
+.env
+.env.local
+.env.*.local
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# VS Code Angular Language Service
+.angular/
+
+# Git
+*.orig
