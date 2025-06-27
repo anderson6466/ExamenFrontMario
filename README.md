@@ -1,17 +1,13 @@
-Hola, presento la forma de montar el frontEnd :
+Hola, presento la forma de montar el frontEnd , previamente debes haber montado ya la parte backend, si no es asi, hacerlo primero, en caso ya lo hiciste puedes continuar con la parte Front:
 Instala Node.js si no lo tienes:
 👉 https://nodejs.org
 
 Abre una terminal en la carpeta del proyecto Angular.
 
 Ejecuta este comando para instalar las dependencias:
-
-bash
  
 npm install
 Luego, inicia la aplicación con:
-
-bash
  
 ng serve
 Abre tu navegador en:
