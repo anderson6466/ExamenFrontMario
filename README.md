@@ -19,3 +19,7 @@ Abre tu navegador en:
 link local
  
 http://localhost:4200
+
+Para realizar el test, lo unico que se tiene que hacer es poner en la consola : ng test y correra el proyecto ha hacer las pruebas del caso,  para ello se estan usando las tecnologias como karma y Jasmines, son framenword para hacer pruebas unitarias en la parte front 
+
+
